@@ -1,14 +1,30 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "id": 1,
+    "name": "Richard",
+    "username": "dirk",
+    "email": "Sincere@april.biz",
+    "website": "hildegard.org",
+  },
+  {
+    "id": 2,
+    "name": "Erik",
+    "username": "powerboy",
+    "email": "Shanna@melissa.tv",
+    "website": "anastasia.net",
+  },
+  {
+    "id": 3,
+    "name": "Alex",
+    "username": "pillar",
+    "email": "Nathan@yesenia.net",
+    "website": "ramiro.info",
+  },
+  {
+    "id": 4,
+    "name": "Jim",
+    "username": "president",
+    "email": "Julianne.OConner@kory.org",
+    "website": "kale.biz",
   }
-}
+]
