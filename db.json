@@ -1,28 +1,36 @@
 {
-  "id": 1,
-  "name": "Richard",
-  "username": "dirk",
-  "email": "Sincere@april.biz",
-  "website": "hildegard.org",
-},
-{
-  "id": 2,
-  "name": "Erik",
-  "username": "powerboy",
-  "email": "Shanna@melissa.tv",
-  "website": "anastasia.net",
-},
-{
-  "id": 3,
-  "name": "Alex",
-  "username": "pillar",
-  "email": "Nathan@yesenia.net",
-  "website": "ramiro.info",
-},
-{
-  "id": 4,
-  "name": "Jim",
-  "username": "president",
-  "email": "Julianne.OConner@kory.org",
-  "website": "kale.biz",
+  "posts": [
+    {
+      "id": 1,
+      "name": "Richard",
+      "username": "dirk",
+      "email": "Sincere@april.biz",
+      "website": "hildegard.org",
+    },
+    {
+      "id": 2,
+      "name": "Erik",
+      "username": "powerboy",
+      "email": "Shanna@melissa.tv",
+      "website": "anastasia.net",
+    },
+    {
+      "id": 3,
+      "name": "Alex",
+      "username": "pillar",
+      "email": "Nathan@yesenia.net",
+      "website": "ramiro.info",
+    },
+    {
+      "id": 4,
+      "name": "Jim",
+      "username": "president",
+      "email": "Julianne.OConner@kory.org",
+      "website": "kale.biz",
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
+
